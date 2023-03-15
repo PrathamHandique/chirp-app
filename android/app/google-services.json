@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "775513569015",
+    "project_id": "social-network-app-7cf4f",
+    "storage_bucket": "social-network-app-7cf4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775513569015:android:1e43ee743da5f8fc3385f2",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775513569015-h6vp640d9doiv0lf40888gvl5b1cqqo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "1ffb1eea79210cc91afa923240c87276c0c2e535"
+          }
+        },
+        {
+          "client_id": "775513569015-hpbgbmj0gamfaent621fuj5cgdj1a0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-jrhRgxv2AGmSdYuN8mdMk61kapTyDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775513569015-hpbgbmj0gamfaent621fuj5cgdj1a0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
